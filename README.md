@@ -1,4 +1,5 @@
 # Twitter-Sentiment-Analysis
+This project focuses on Twitter sentiment analysis using machine learning and NLP techniques. It involves preprocessing tweets, converting text data into numerical form using TF-IDF Vectorizer and training Logistic Regression to classify tweets as positive or negative. The trained model is saved for predictions.
 
 ![DS 4](https://github.com/user-attachments/assets/86f15a2d-8ca1-4eaa-a2a7-8be31f7316f8)
 
